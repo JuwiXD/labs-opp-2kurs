@@ -1,0 +1,7 @@
+﻿  Date.cpp
+C:\Users\ivanz\source\repos\LABS3OPPBESTNEW\LABS3OPPBESTNEW\Date.cpp(47,17): warning C4018: >: несоответствие типов со знаком и без знака
+  main.cpp
+  Payment.cpp
+C:\Users\ivanz\source\repos\LABS3OPPBESTNEW\LABS3OPPBESTNEW\Payment.cpp(78,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода...
+  LABS3OPPBESTNEW.vcxproj -> C:\Users\ivanz\source\repos\LABS3OPPBESTNEW\x64\Debug\LABS3OPPBESTNEW.exe
